@@ -28,3 +28,8 @@ This Java application implements an electronic voting system that allows adminis
 
 Uses file handling and serialization to persist admin, voter, candidate, and election data between program runs.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
